@@ -32,31 +32,31 @@ docker compose up
 
 # Local Machine Environment
 Clone the repository to your local machine.
-```bash
+```
 git clone https://github.com/Aryan-Deshpande/WattWise
 ```
 
 <sub>Terminal 1<sub>
-```bash
+```
 cd Frontend
 
 Install Dependencies
-```bash
+```
 npm install
 ```
 <sub>Start script<sub>
-```bash
+```
 npm start
 ```
 <br>
 <br>
 
 <sub>Terminal 2<sub>
-```sh
+```
 cd Backend
 
 Install Dependencies
-```sh
+```
 npm install
 ```
 <sub>Start script<sub>
