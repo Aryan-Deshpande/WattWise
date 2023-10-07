@@ -23,27 +23,30 @@ Apart from tracking and predicting electricity usage, our application offers an 
 - consumption compared to the average consumption in your state or region.
 
 # Docker Environment
-Clone the repository to your local machine.
-```bash
+### Clone the repository to your local machine.
+```
 git clone https://github.com/Aryan-Deshpande/WattWise
 cd gsc
 docker compose up
 ```
 
 # Local Machine Environment
-Clone the repository to your local machine.
+### Clone the repository to your local machine.
 ```
 git clone https://github.com/Aryan-Deshpande/WattWise
 ```
 
 <sub>Terminal 1<sub>
+
 ```
 cd Frontend
+```
 
 Install Dependencies
 ```
 npm install
 ```
+
 <sub>Start script<sub>
 ```
 npm start
@@ -59,7 +62,8 @@ Install Dependencies
 ```
 npm install
 ```
+
 <sub>Start script<sub>
-```sh
+```
 node server.js
 ```
