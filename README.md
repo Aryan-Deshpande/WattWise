@@ -25,7 +25,7 @@ Apart from tracking and predicting electricity usage, our application offers an 
 # Docker Environment
 Clone the repository to your local machine.
 ```bash
-git clone [https://github.com/Aryan-Deshpande/WattWise](https://github.com/Aryan-Deshpande/WattWise)
+git clone https://github.com/Aryan-Deshpande/WattWise
 cd gsc
 docker compose up
 ```
@@ -33,7 +33,7 @@ docker compose up
 # Local Machine Environment
 Clone the repository to your local machine.
 ```bash
-git clone [https://github.com/Aryan-Deshpande/WattWise](https://github.com/Aryan-Deshpande/WattWise)
+git clone https://github.com/Aryan-Deshpande/WattWise
 ```
 
 <sub>Terminal 1<sub>
@@ -52,14 +52,14 @@ npm start
 <br>
 
 <sub>Terminal 2<sub>
-```bash
+```sh
 cd Backend
 
 Install Dependencies
-```bash
+```sh
 npm install
 ```
 <sub>Start script<sub>
-```bash
+```sh
 node server.js
 ```
