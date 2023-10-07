@@ -36,34 +36,34 @@ docker compose up
 git clone https://github.com/Aryan-Deshpande/WattWise
 ```
 
-<sub>Terminal 1<sub>
-
+### Terminal 1
 ```
 cd Frontend
 ```
 
-Install Dependencies
+### Install Dependencies
 ```
 npm install
 ```
 
-<sub>Start script<sub>
+### Start script<sub>
 ```
 npm start
 ```
 <br>
 <br>
 
-<sub>Terminal 2<sub>
+### Terminal 2
 ```
 cd Backend
+```
 
-Install Dependencies
+### Install Dependencies
 ```
 npm install
 ```
 
-<sub>Start script<sub>
+### Start script
 ```
 node server.js
 ```
