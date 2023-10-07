@@ -15,17 +15,17 @@ Apart from tracking and predicting electricity usage, our application offers an 
 ![architecture](https://cdn.discordapp.com/attachments/835750351621718030/1091396806518251530/final.png)
 
 # Features
-- Calculates electricity consumption for each appliance based on wattage and usage hours.
+- Calculates electricity consumption for each appliance based on wattage and hours usage.
 - Stores data in a database for future reference.
 - Provides personalized recommendations on how to save energy.
-- Includes a cutting-edge machine learning model for accurate - - prediction of electricity consumption.
+- Includes a highly accurate machine learning model for prediction of electricity consumption.
 - Offers a visual representation of your electricity.
 - consumption compared to the average consumption in your state or region.
 
 # Docker Environment
 Clone the repository to your local machine.
 ```bash
-git clone https://github.com/ahanavish/gsc
+git clone [https://github.com/Aryan-Deshpande/WattWise](https://github.com/Aryan-Deshpande/WattWise)
 cd gsc
 docker compose up
 ```
@@ -33,7 +33,7 @@ docker compose up
 # Local Machine Environment
 Clone the repository to your local machine.
 ```bash
-git clone https://github.com/ahanavish/gsc
+git clone [https://github.com/Aryan-Deshpande/WattWise](https://github.com/Aryan-Deshpande/WattWise)
 ```
 
 <sub>Terminal 1<sub>
